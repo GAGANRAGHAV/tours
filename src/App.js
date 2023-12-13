@@ -36,15 +36,15 @@ function App() {
   useEffect(() => {
 
     axios.get("https://course-api.com/react-tours-project")
-
+    
     .then((res) => setTours(res.data) )
+    
     
     
   
    
   }, [])
 
-   console.log(tours)
   
 
 

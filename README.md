@@ -1,1 +1,7 @@
-## React Projects Starter APP
+to run this repository you can
+
+npm install
+
+and then,
+
+npm start
